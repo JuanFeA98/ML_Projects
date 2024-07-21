@@ -1,4 +1,4 @@
-# **Repositorio de Proyectos de Machine Learning**
+# **Proyectos de Machine Learning**
 
 ¡Hola y bienvenido a mi repositorio de proyectos de Machine Learning! Soy un entusiasta de los datos y un apasionado del aprendizaje automático, y este repositorio es una colección de proyectos que he creado para mejorar mis habilidades y aplicar lo que he aprendido.
 
