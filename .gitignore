@@ -2,7 +2,8 @@
 MachineLearning/
 *.csv
 *.txt
-
+.vscode
+*.xlsx
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
